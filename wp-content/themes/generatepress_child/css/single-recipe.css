@@ -1,0 +1,91 @@
+.recipe-article{
+    margin: 8rem 5rem;
+    padding: 0rem 2rem;
+    background-color: var(--base-3);
+}
+
+.recipe-article .article{
+    margin: 3rem auto;
+    width: 80%;
+}
+
+.article .article-title{
+    text-align: center;
+    margin: 3rem 0rem;
+}
+
+.article-title h1{
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.article .article-picture{
+    margin: 3rem 0;
+}
+
+.recipe-article .article-picture img{
+    width: 100%;
+    height: auto;
+    border-radius: 3%;
+}
+
+
+.article  .article-metadata{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 3rem 0;
+}
+
+.article-metadata .metadata{
+    display: flex;
+    justify-content: center; 
+    padding: 0.5rem;
+}
+
+.metadata .metadata-icon{
+    width: 1.5rem;
+    height: auto;
+    fill : var(--accent);
+}
+
+.metadata .metadata-data{
+    margin-left: 0.5rem;
+}
+
+.article .article-element{
+    margin: 3rem 0;
+    width: 100%;
+}
+.article-element h2{
+    font-size: 2rem;
+    font-weight: bold;
+    width: 100%;
+    margin-bottom: 2rem;
+}
+
+
+.article-element ul.ingredients{
+    list-style: "- ";
+    margin: 1rem;
+}
+
+.article-element ul.steps{
+    list-style: none;
+    margin: 0.5rem;
+}
+
+.article-element li
+{
+    margin: 1rem 0;
+}
+
+ul.steps li span{
+    font-weight: bold;
+    color: var(--accent);
+}
+
+
+
+
+
