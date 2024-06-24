@@ -21,3 +21,4 @@ Url : https://wordpress.org/plugins/advanced-custom-fields/
 3. Importer le fichier jacf-export-2024-06-24.json dans wp admin→ACF→
 4. Importer la base de donnée
 5. cloner le projet [https://github.com/hardcodeur/Incomm-test.gi](https://github.com/hardcodeur/Incomm-test.git)
+
