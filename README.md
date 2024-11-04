@@ -1,7 +1,3 @@
-Pour améliorer ton fichier README, il serait pertinent d'ajouter des informations claires sur les objectifs, les fonctionnalités clés du projet, ainsi qu'une structure pour guider l’utilisateur dans l'installation et l'utilisation du projet. Voici une version mise à jour du README, prenant en compte les consignes et objectifs du projet :
-
----
-
 # Incomm Test Project
 
 ## Objectif du projet
